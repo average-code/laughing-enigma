@@ -10,7 +10,7 @@ while also appreciating the methods i used throughout, some of the things althou
 provide the different layers of a problem.
 
 While progressing through the book there were a lot of **_"Eureka!"_** moments for me
-I had a hold of using functions but there were certainly times where questions
+I had a hold of using functions, but there were certainly times
 where it became very clear and it only made me better than before.
 
 I would recommend anyone starting with programming to try the questions, it will surely be helpful.
